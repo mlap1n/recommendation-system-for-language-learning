@@ -5,3 +5,6 @@
 
 ## Customer Journey Map for the recommendation system
 ![Customer Journey Map](images/CJM.jpg)
+
+## Conceptual architecture diagram
+![Conceptual architecture diagram](images/scheme.png)
